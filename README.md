@@ -7,7 +7,6 @@ A Python implementation of the classic Caesar Cipher — one of the oldest and s
 ## 📁 Files in This Project
 
 - `main.py`: The main script that handles user input and runs the Caesar Cipher.
-- `solution.py`: An alternate or earlier version of the cipher logic.
 - `art.py`: Contains an ASCII art logo that displays when the program starts.
 
 ---
